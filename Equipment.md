@@ -64,10 +64,10 @@ http://bbs.anhei2.com/thread-21140-1-1.html
 http://bbs.anhei2.com/thread-15611-1-3.html
 
 推荐
-- 前中期符文之语（通用）
+- 前中期符文之语（通用）  
 ![avatar](./img/Stealth.png)
 ![avatar](./img/Lore.png)
 ![avatar](./img/Rhyme.png)
-- 佣兵用符文之语
+- 佣兵用符文之语  
 ![avatar](./img/Strength.png)
 ![avatar](./img/Insight.png)
