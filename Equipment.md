@@ -68,6 +68,7 @@ http://bbs.anhei2.com/thread-15611-1-3.html
 ![avatar](./img/Stealth.png)
 ![avatar](./img/Lore.png)
 ![avatar](./img/Rhyme.png)
+![avatar](./img/Spirit.png)
 - 佣兵用符文之语  
 ![avatar](./img/Strength.png)
 ![avatar](./img/Insight.png)
